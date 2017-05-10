@@ -45,3 +45,20 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.ilk
+*.pdb
+*.csv_backup
+*.ncb
+*.suo
+*.htm
+*.dep
+*.pch
+*.obj
+*.manifest
+*.idb
+*.res
+*.user
+debug/ShutDownDetect.exe
+release/ShutDownDetect.exe
+debug/shutdown_time_record.csv
+release/shutdown_time_record.csv
